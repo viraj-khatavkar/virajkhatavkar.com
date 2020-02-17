@@ -1,0 +1,58 @@
+version: '2'
+services:
+  app:
+    build:
+      context: ./docker/app
+      dockerfile: Dockerfile
+    image: viraj/virajkhatavkar.com
+    volumes:
+      - .:/var/www/html
+    working_dir: /var/www/html
+    ports:
+      - "3107:80"
+    networks:
+      - vknet
+    depends_on:
+      - mysql
+
+  node:
+    build:
+      context: ./docker/node
+      dockerfile: Dockerfile
+    image: node/virajkhatavkar.com
+    volumes:
+      - .:/var/www/html
+    working_dir: /var/www/html
+    networks:
+      - vknet
+  mysql:
+    build:
+      context: ./docker/mysql
+      dockerfile: Dockerfile
+    image: mysql:virajkhatavkar.com
+    command: mysqld --sql_mode=""
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: "secret"
+      MYSQL_DATABASE: "virajkhatavkar.com"
+      MYSQL_USER: "root"
+      MYSQL_PASSWORD: "secret"
+    volumes:
+      - mysqldata:/var/lib/mysql
+    networks:
+      - vknet
+  redis:
+    image: redis:alpine
+    volumes:
+      - redisdata:/data
+    networks:
+      - vknet
+networks:
+  vknet:
+    driver: "bridge"
+volumes:
+  mysqldata:
+    driver: "local"
+  redisdata:
+    driver: "local"

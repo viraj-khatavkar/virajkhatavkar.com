@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Mono');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/a11y-dark.min.css');
+
+@tailwind base;
+
+.markdown p {
+    @apply my-8;
+}
+
+.markdown a {
+    @apply underline text-black
+}
+
+.markdown blockquote {
+    @apply border-l-4 border-gray-100 pl-4 italic;
+ }
+
+.markdown h2 {
+    @apply font-bold text-xl mt-4
+}
+
+.markdown pre > code {
+    @apply py-4 px-4 text-sm font-fira;
+}
+
+.markdown p > code {
+    @apply border-0 rounded bg-gray-100 p-1 text-sm font-fira;
+}
+
+@tailwind components;
+
+@tailwind utilities;

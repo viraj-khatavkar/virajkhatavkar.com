@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+docker build -f app/Dockerfile -t viraj/php-app:latest ./app
+docker build -f node/Dockerfile -t viraj/node:latest ./node
