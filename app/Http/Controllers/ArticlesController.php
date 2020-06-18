@@ -17,11 +17,12 @@ class ArticlesController extends Controller
         $articles = Cache::rememberForever('articles', function () {
             $articles = collect(Storage::disk('articles')->files());
             return $articles->map(function ($article) {
+                $url = explode('.', $article)[0];
                 $article = YamlFrontMatter::parse(Storage::disk('articles')->get($article));
 
                 return (object)[
                     'id'      => $article->id,
-                    'url'     => url(Str::slug($article->title)),
+                    'url'     => url($url),
                     'title'   => $article->title,
                     'excerpt' => $article->excerpt,
                     'body'    => $article->body,
