@@ -32,17 +32,41 @@ class ArticlesController extends Controller
         return view('articles.index', compact('articles'));
     }
 
+    public function indexDev()
+    {
+        $articles = collect(Storage::disk('articles')->files());
+        $articles = $articles->map(function ($article) {
+            $url = explode('.', $article)[0];
+            $article = YamlFrontMatter::parse(Storage::disk('articles')->get($article));
+
+            return (object)[
+                'id'      => $article->id,
+                'url'     => url($url),
+                'title'   => $article->title,
+                'excerpt' => $article->excerpt,
+                'body'    => $article->body,
+            ];
+        })->sortByDesc('id');
+
+        return view('articles.index', compact('articles'));
+    }
+
     public function show($slug)
     {
         try {
-            $article = Cache::rememberForever($slug, function () use ($slug) {
-                return YamlFrontMatter::parse(Storage::disk('articles')->get(sprintf('%s.md', $slug)));
-            });
+            if (app()->environment() == 'local') {
+                $article = YamlFrontMatter::parse(Storage::disk('articles')->get(sprintf('%s.md', $slug)));
+            } else {
+                $article = Cache::rememberForever($slug, function () use ($slug) {
+                    return YamlFrontMatter::parse(Storage::disk('articles')->get(sprintf('%s.md', $slug)));
+                });
+            }
 
             return view('articles.show', [
                 'article' => (object)[
-                    'title' => $article->title,
-                    'body'  => (new CommonMarkConverter())->convertToHtml($article->body()),
+                    'title'   => $article->title,
+                    'excerpt' => $article->excerpt,
+                    'body'    => (new CommonMarkConverter())->convertToHtml($article->body()),
                 ],
             ]);
         } catch (FileNotFoundException $e) {

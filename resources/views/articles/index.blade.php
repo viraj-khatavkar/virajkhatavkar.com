@@ -1,7 +1,9 @@
 @extends('layout')
 
 @section('content')
+
     <div class="mt-12">
+        <script async data-uid="d0e1b9e4ea" src="https://colossal-knitter-1148.ck.page/d0e1b9e4ea/index.js"></script>
         @foreach($articles as $article)
             <div class="mt-12">
                 <a href="{{ $article->url }}" class="no-underline text-black font-bold text-2xl ">

@@ -13,6 +13,7 @@
 
 Route::get('/', 'ArticlesController@index');
 Route::get('articles', 'ArticlesController@index');
+Route::get('articles-dev', 'ArticlesController@indexDev');
 Route::get('hubspot-test', function () {
     return view('hubspot');
 });
