@@ -8,14 +8,20 @@
         <div class="pt-4 markdown text-black leading-relaxed font-fira-mono">
             {!! $article->body !!}
         </div>
-        <div class="py-4">
-            You can email me at viraj@virajkhatavkar.com for any questions. I'll be happy to answer any of them!
+        <div class="my-8 leading-loose">
+            <p>
+                I’m on Twitter,
+                <a href="https://twitter.com/virajinvests" target="_blank" class="underline outline-none hover:underline">
+                    @virajinvests
+                </a>
+            </p>
+            <p>
+                If you have feedback, feel free to write me at viraj@virajkhatavkar.com. I guarantee I'll read it,
+                and likely will respond.
+            </p>
         </div>
-        <div class="pt-4 pb-8">
-            - Viraj,
-            <a href="https://twitter.com/virajkhatavkar" target="_blank" class="no-underline outline-none hover:underline">
-                @virajkhatavkar
-            </a>
+        <div class="flex justify-center mb-12">
+            @include('subscribe')
         </div>
     </div>
 @endsection

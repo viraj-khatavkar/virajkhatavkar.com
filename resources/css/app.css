@@ -27,6 +27,10 @@
     @apply border-0 rounded bg-gray-100 p-1 text-sm font-fira;
 }
 
+.markdown ul {
+    @apply list-disc list-inside
+}
+
 @tailwind components;
 
 @tailwind utilities;
