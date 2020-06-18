@@ -14,8 +14,8 @@
     <meta name="twitter:title" content="{{ $article->title }}">
     <meta name="twitter:description" content="{{ $article->excerpt }}">
     <meta name="twitter:image" content="{{ $article->splash_image }}">
-    <meta name="twitter:site" content="@virajinvests">
-    <meta name="twitter:creator" content="@virajinvests">
+    <meta name="twitter:site" content="@virajkhatavkar">
+    <meta name="twitter:creator" content="@virajkhatavkar">
 
     <title>Viraj Khatavkar</title>
 

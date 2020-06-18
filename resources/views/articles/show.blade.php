@@ -11,8 +11,8 @@
         <div class="my-8 leading-loose">
             <p>
                 I’m on Twitter,
-                <a href="https://twitter.com/virajinvests" target="_blank" class="underline outline-none hover:underline">
-                    @virajinvests
+                <a href="https://twitter.com/virajkhatavkar" target="_blank" class="underline outline-none hover:underline">
+                    @virajkhatavkar
                 </a>
             </p>
             <p>
