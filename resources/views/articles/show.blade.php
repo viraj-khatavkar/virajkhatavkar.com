@@ -1,4 +1,4 @@
-@extends('layout')
+@extends('article')
 
 @section('content')
     <div class="mt-12">

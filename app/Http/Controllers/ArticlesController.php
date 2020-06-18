@@ -21,11 +21,11 @@ class ArticlesController extends Controller
                 $article = YamlFrontMatter::parse(Storage::disk('articles')->get($article));
 
                 return (object)[
-                    'id'      => $article->id,
-                    'url'     => url($url),
-                    'title'   => $article->title,
-                    'excerpt' => $article->excerpt,
-                    'body'    => $article->body,
+                    'id'           => $article->id,
+                    'url'          => url($url),
+                    'title'        => $article->title,
+                    'excerpt'      => $article->excerpt,
+                    'body'         => $article->body,
                 ];
             })->sortByDesc('id');
         });
@@ -41,11 +41,11 @@ class ArticlesController extends Controller
             $article = YamlFrontMatter::parse(Storage::disk('articles')->get($article));
 
             return (object)[
-                'id'      => $article->id,
-                'url'     => url($url),
-                'title'   => $article->title,
-                'excerpt' => $article->excerpt,
-                'body'    => $article->body,
+                'id'           => $article->id,
+                'url'          => url($url),
+                'title'        => $article->title,
+                'excerpt'      => $article->excerpt,
+                'body'         => $article->body,
             ];
         })->sortByDesc('id');
 
@@ -65,9 +65,10 @@ class ArticlesController extends Controller
 
             return view('articles.show', [
                 'article' => (object)[
-                    'title'   => $article->title,
-                    'excerpt' => $article->excerpt,
-                    'body'    => (new CommonMarkConverter())->convertToHtml($article->body()),
+                    'title'        => $article->title,
+                    'excerpt'      => $article->excerpt,
+                    'splash_image' => $article->splash_image,
+                    'body'         => (new CommonMarkConverter())->convertToHtml($article->body()),
                 ],
             ]);
         } catch (FileNotFoundException $e) {
