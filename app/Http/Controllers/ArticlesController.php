@@ -21,13 +21,14 @@ class ArticlesController extends Controller
                 $article = YamlFrontMatter::parse(Storage::disk('articles')->get($article));
 
                 return (object)[
-                    'id'           => $article->id,
-                    'url'          => url($url),
-                    'title'        => $article->title,
-                    'excerpt'      => $article->excerpt,
-                    'body'         => $article->body,
+                    'id'        => $article->id,
+                    'url'       => url($url),
+                    'title'     => $article->title,
+                    'excerpt'   => $article->excerpt,
+                    'body'      => $article->body,
+                    'published' => $article->published,
                 ];
-            })->sortByDesc('id');
+            })->where('published', 1)->sortByDesc('id');
         });
 
         return view('articles.index', compact('articles'));
@@ -41,13 +42,14 @@ class ArticlesController extends Controller
             $article = YamlFrontMatter::parse(Storage::disk('articles')->get($article));
 
             return (object)[
-                'id'           => $article->id,
-                'url'          => url($url),
-                'title'        => $article->title,
-                'excerpt'      => $article->excerpt,
-                'body'         => $article->body,
+                'id'        => $article->id,
+                'url'       => url($url),
+                'title'     => $article->title,
+                'excerpt'   => $article->excerpt,
+                'body'      => $article->body,
+                'published' => $article->published,
             ];
-        })->sortByDesc('id');
+        })->where('published', '=', 1)->sortByDesc('id');
 
         return view('articles.index', compact('articles'));
     }

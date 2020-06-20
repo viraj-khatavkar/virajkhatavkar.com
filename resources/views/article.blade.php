@@ -2,13 +2,15 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     @include('google_analytics')
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:site_name" content="virajkhatavkar.com">
-    <meta property="og:locale" content="en_US">
-    <meta property="og:title" content="{{ $article->title }}">
-    <meta property="og:description" content="{{ $article->excerpt }}">
-    <meta property="og:image" content="{{ $article->splash_image }}">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta property="og:site_name" content="virajkhatavkar.com" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:title" content="{{ $article->title }}" />
+    <meta property="og:description" content="{{ $article->excerpt }}" />
+    <meta property="og:image" content="{{ $article->splash_image }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="virajkhatavkar.com" />
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ $article->title }}">
@@ -17,7 +19,7 @@
     <meta name="twitter:site" content="@virajkhatavkar">
     <meta name="twitter:creator" content="@virajkhatavkar">
 
-    <title>Viraj Khatavkar</title>
+    <title>{{ $article->title }}</title>
 
     <!-- Tailwind -->
     <link href="/css/app.css" rel="stylesheet">
