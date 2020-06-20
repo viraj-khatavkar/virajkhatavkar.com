@@ -1,7 +1,7 @@
 ---
 id: 2
 title: You Want to Retire Early? Savings Are More Imortant Than Investment Returns
-excerpt: A 25% return on a small capital of 1 lakh rupees is a meager 25,000. While a simple 10% return on one crore comes out to be ten lakhs, which can be many months of expenses for the most of us.
+excerpt: This calculation shows that for the first ten years of our journey, focusing on savings is more important than beating ourselves about getting high investment returns.
 splash_image: https://res.cloudinary.com/doohrbhlh/image/upload/v1592662130/virajkhatavkar.com/2-you-want-to-retire-early-savings-are-more-important-than-investment-returns-2.png
 published: 1
 ---
