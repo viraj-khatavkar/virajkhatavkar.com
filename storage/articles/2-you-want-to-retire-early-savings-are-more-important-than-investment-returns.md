@@ -25,7 +25,7 @@ Let's assume we invest 20,000 rupees per month, and we get a 14% return every ye
 
 It's only in the year ten that the returns part of our total net worth is higher than the savings contributed. But even after ten years, savings are a staggering 45% of our entire corpus.
 
-This calculation should help us understand that for the first part of our journey, focusing on savings is more important than beating ourselves about the investment returns.
+Even at a high return rate of 14%, this calculation shows us that investment returns don't contribute much when we start on our journey. Focusing on savings is more important than beating ourselves about the returns that we get.
 
 
 ## The Power of Compounding
