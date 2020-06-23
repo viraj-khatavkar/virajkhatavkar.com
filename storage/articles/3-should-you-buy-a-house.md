@@ -1,7 +1,7 @@
 ---
 id: 3
 title: Should You Buy a House
-excerpt: This calculation shows that for the first ten years of our journey, focusing on savings is more important than beating ourselves about getting high investment returns.
+excerpt: I sometimes wonder whether it is worth the emotional stress to have a place that we can call "our home" but always be stressed about our finances? I write about my take on this question from a financial and emotional perspective.
 splash_image: https://res.cloudinary.com/doohrbhlh/image/upload/v1592837463/virajkhatavkar.com/3-should-you-buy-a-house-1.jpg
 published: 1
 is_premium: 0
