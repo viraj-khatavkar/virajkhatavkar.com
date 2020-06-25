@@ -4,6 +4,7 @@ title: Understanding the FIRE Movement
 excerpt: FIRE is an acronym for Financial Independence Retire Early. The goal is to save enough money to retire early around the age of 35-45 rather than the traditional age of 55-65.
 splash_image: https://res.cloudinary.com/doohrbhlh/image/upload/v1592485809/virajkhatavkar.com/1-understanding-the-fire-movement-1.jpg
 published: 1
+is_premium: 0
 ---
 
 ## What is this F.I.R.E. Movement?

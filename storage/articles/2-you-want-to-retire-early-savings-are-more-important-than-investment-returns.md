@@ -4,6 +4,7 @@ title: You Want to Retire Early? Savings Are More Important Than Investment Retu
 excerpt: This calculation shows that for the first ten years of our journey, focusing on savings is more important than beating ourselves about getting high investment returns.
 splash_image: https://res.cloudinary.com/doohrbhlh/image/upload/v1592662130/virajkhatavkar.com/2-you-want-to-retire-early-savings-are-more-important-than-investment-returns-2.png
 published: 1
+is_premium: 0
 ---
 
 
