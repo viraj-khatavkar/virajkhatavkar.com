@@ -18,7 +18,7 @@
     <meta name="twitter:site" content="@virajkhatavkar">
     <meta name="twitter:creator" content="@virajkhatavkar">
 
-    <title>Viraj Khatavkar</title>
+    <title>Get Personal Finance Insights - Viraj Khatavkar</title>
 
     <!-- Tailwind -->
     <link href="/css/app.css" rel="stylesheet">
@@ -31,10 +31,12 @@
                 Viraj Khatavkar
             </a>
         </div>
-        @yield('content')
+        <div class="mt-12">
+            <div class="mt-8">
+                <script async data-uid="d0e1b9e4ea" src="https://colossal-knitter-1148.ck.page/d0e1b9e4ea/index.js"></script>
+            </div>
+        </div>
 
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
 </body>
 </html>
