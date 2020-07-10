@@ -12,7 +12,7 @@ is_premium: 0
 
 Let's start with a short story about my friend. We'll call him Vikas. He is from a middle-class family who graduated in engineering from Mumbai University in 2014. Vikas didn't have an education loan or any other loans for that matter. After graduation, he got a job in one of the software companies with a package of around five lakhs per year. This was a respectable package back in those days. In the first year of his job, he saved around two lakh rupees i.e., almost half of his salary before taxes. Saving 50% of our own salary is a great start and shows financial prudence. The story doesn't end here. In the second year, he spent all his savings in the downpayment of a car worth ten lakh rupees and took a loan for the remainder amount. He went from a positive net worth of 2.5 lakhs to a negative worth of 7.5 lakhs.
 
-Vikas used that car for couple of days a month. Once a year, he might go for a vacation of 7-8 days, but that's it. This is a very typical story with our friends and many times, ourselves. Is it worth to buy a new car on EMIs when we rarely use it for the commute? Wouldn't it be better to buy a used car? Most of us make these decisions emotionally. When we buy a car, the moment it comes out of the showroom, the value of that car decreases by 40%. [When we own a house](https://virajkhatavkar.com/3-should-you-buy-a-house){target=_blank}, the value might appreciate over the very long-term. But a car's value always depreciates the longer we own it.
+Vikas used that car for couple of days a month. Once a year, he might go for a vacation of 7-8 days, but that's it. This is a very typical story with our friends and many times, ourselves. Is it worth to buy a new car on EMIs when we rarely use it for the commute? Wouldn't it be better to buy a used car? Most of us make these decisions emotionally. When we buy a car, the moment it comes out of the showroom, the value of that car decreases by 40%. [When we own a house](https://virajkhatavkar.com/3-should-you-buy-a-house), the value might appreciate over the very long-term. But a car's value always depreciates the longer we own it.
 
 ## Actual Costs of Owning a Car on EMI
 
@@ -28,7 +28,7 @@ Vikas paid back a total of 10 lakhs in those six years. The total cost for the o
 > 
 > **Google**
 
-I avoid buying depreciating assets **on EMIs**. Car is a usable product, but it depreciates in value. I am not saying that we should never buy a car. My only concern is that we spend most of our accumulated savings in buying such a depreciating product. Instead we should be investing our money to [beat inflation](https://virajkhatavkar.com/4-inflation-is-a-hidden-expense){target=_blank}.
+I avoid buying depreciating assets **on EMIs**. Car is a usable product, but it depreciates in value. I am not saying that we should never buy a car. My only concern is that we spend most of our accumulated savings in buying such a depreciating product. Instead we should be investing our money to [beat inflation](https://virajkhatavkar.com/4-inflation-is-a-hidden-expense).
 
 Even if we spend fifteen thousand rupees per month on Ola/Uber, it will take us around six years of using cabs to justify the cost of merely owning a car without considering the fuel and maintenance expenses. I don't own a car because I cannot justify its expense or use. Do I want to own a car? Definitely YES! Do I want to buy on EMIs? NO!!
 
