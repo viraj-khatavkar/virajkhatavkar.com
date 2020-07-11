@@ -1,7 +1,7 @@
 ---
 id: 6
 title: How Compounding Works
-excerpt: Compounding is the eighth wonder of the world. All things in life come through compounding. These words had the most profound impact on my life. I explain how compounding gives us the good and bad depending on what we feed into it. I post my take on wealth, health, and a few other things.
+excerpt: Compounding is the eighth wonder of the world. All things in life come through compounding. These words had the most profound impact on my life. I explain how compounding gives us the good and bad depending on what we feed into it. I write my take on how compounding affects wealth, health, and a few other things.
 splash_image: https://res.cloudinary.com/doohrbhlh/image/upload/v1594450524/virajkhatavkar.com/6-how-compounding-works-1_1.jpg
 published: 1
 is_premium: 0
