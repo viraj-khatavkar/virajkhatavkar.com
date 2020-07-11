@@ -34,7 +34,7 @@ Let's understand how eating frequently or eating sugar leads to insulin resistan
 
 If we focus on simple things like walking every day for 60 minutes or not eating processed foods, it will compound to give us benefits over a long period. For my personal habits, I only eat once a day for five/six days a week. My processed food consumption has dropped down to less than 10% of my monthly diet. I have been doing this for more than a year now. It's early, but I have seen many positive changes in my health. I am not saying that we might die if we don't do these things. Medicine has advanced a lot to give us long life. But what's the use of that long life, if you cannot eat, move and enjoy your lengthy life? 
 
-For exercise discipline, I do sit-ups every day to give my hips and knees their natural movement. One of my crazy goals is to be alive until 110. I want to see the new century i.e., 3001. These habits are just a part of reaching that goal healthily. I don't want to be bed-ridden in my old age. I want to be active.
+For exercise discipline, I do sit-ups every day to give my hips and knees their natural movement. One of my crazy goals is to be alive until 110. I want to see the new century i.e., 2101. These habits are just a part of reaching that goal healthily. I don't want to be bed-ridden in my old age. I want to be active.
 
 ## Knowledge
 
