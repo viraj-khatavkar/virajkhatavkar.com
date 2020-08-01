@@ -1,7 +1,7 @@
 ---
 id: 8
 title: August Personal Net Worth Update
-excerpt: August Personal Net Worth Update
+excerpt: My net-worth grew by 30% in August. This article shows the detailed overview
 splash_image: https://res.cloudinary.com/doohrbhlh/image/upload/v1596279590/virajkhatavkar.com/piggybank-networth-update.jpg
 published: 1
 is_premium: 1
