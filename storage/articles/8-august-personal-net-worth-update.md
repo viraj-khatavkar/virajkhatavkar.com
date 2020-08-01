@@ -10,7 +10,7 @@ is_premium: 1
 
 ## What this update is about?
 
-I have seen many people from the USA's personal finance community who share their personal net-worth updates every month. These people are not very well to do, nor are they very high earners. They simply follow the basic rules of living below the means, save a lot, and invest in appreciating assets. Reading their monthly progress inspired me a lot when I was getting started to think about financial independence. Unfortunately, I haven't seen anyone in the Indian community do the same and be transparent. This moment motivated me to think about why shouldn't I start being open about it? Eventually, I decided to go ahead and post my monthly update every month. Even if one person gets inspired to start on their journey towards financial independence by reading about my progress, I'd be satisfied with this blog's purpose.
+I have seen many people from the USA's personal finance community who share their personal net-worth updates every month. Surpisingly, these people are not high earners. They simply follow the basic rules of living below the means, save a lot, and invest in appreciating assets. Reading their monthly progress inspired me a lot when I was getting started to think about financial independence. Unfortunately, I haven't seen anyone in the Indian community do the same and be transparent. This moment motivated me to think about why shouldn't I start being open about it? Eventually, I decided to go ahead and post my monthly update every month. Even if one person gets inspired to start on their journey towards financial independence by reading about my progress, I'd be satisfied with this blog's purpose.
 
 ## August Update
 
