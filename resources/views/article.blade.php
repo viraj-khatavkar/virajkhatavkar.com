@@ -25,7 +25,7 @@
     <link href="/css/app.css" rel="stylesheet">
 </head>
 <body class="font-sans bg-white leading-tight antialiased">
-    <div id="app" class="container mx-auto mt-12 lg:mt-32 w-3/4 lg:w-1/2 xl:w-1/3">
+    <div id="app" class="mt-12 px-6 constrain constrain-xl">
         <div class="flex items-center">
             <img src="{{ asset('/images/viraj-current.jpg') }}" class="h-12 w-12 rounded-full" alt="">
             <a href="/" class="text-black text-3xl md:text-4xl font-bold pl-2 md:pl-6 no-underline">

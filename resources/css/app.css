@@ -31,6 +31,19 @@
     @apply list-disc list-inside
 }
 
+.constrain {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.constrain-lg {
+    max-width: 38rem;
+}
+
+.constrain-xl {
+    max-width: 42rem;
+}
+
 @tailwind components;
 
 @tailwind utilities;
