@@ -2,7 +2,7 @@
 id: 9
 title: It is Okay to Hate Your Job
 excerpt: A survey conducted in 2017 showed that 85% of the people in the world hate their jobs. 94% of Japanese workers hate their work, while 70% of American workers are not engaged. Why is this number so high? Do you also hate your job? Answer honestly to yourself!
-splash_image: https://res.cloudinary.com/doohrbhlh/image/upload/v1594908515/virajkhatavkar.com/7-saving-first-50-lakhs-is-the-toughest-part-of-your-financial-journey-1.jpg
+splash_image: https://res.cloudinary.com/doohrbhlh/image/upload/v1596800498/virajkhatavkar.com/9-it-is-okay-to-hate-your-job-1.jpg
 published: 1
 is_premium: 0
 ---
