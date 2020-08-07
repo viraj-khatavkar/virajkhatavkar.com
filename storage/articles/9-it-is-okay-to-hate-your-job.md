@@ -37,13 +37,11 @@ A typical tenure for a home loan is 30 years because they want us to be stuck in
 
 ## How to Get Out?
 
-Getting out is simple. Have a business that pays you more than your job. I know it's not easy to do that! But let's look at possible solutions for getting out of the corporate workplace:
-
 **Solution One: Build a Business** 
 
 This is harder than it seems. If you have the capability and avenues to generate income through a business, go for it. Business doesn't necessarily mean the traditional setup of big corporations with employees. There are many examples of simple one-person companies like a blogger, or online teacher or small SaaS companies, even smaller e-commerce stores, etc. This is the best option if it is possible for you!
 
-**Solution One: Financial Independence Retire Early** 
+**Solution Two: Financial Independence Retire Early** 
 
 This is the most common solution, even for the people who want to do business because we don't know the future or how much time we will be interested in running a company. Pursuing financial independence should be a goal for each and every one of us, irrespective of our careers. Financial freedom can be achieved in 10-15 years if planned and executed correctly. It is not for someone who lives an expensive life, but it does not mean that we need to be very frugal. It needs to be a life with an "enough" mindset. "Enough" can be different for everyone. What I consider as enough for myself might be an expensive lifestyle for you. Decide your enough and work towards it. My goal is to retire before 38, and here is my enough mindset as of today:
 
