@@ -22,7 +22,7 @@
     <title>{{ $article->title }}</title>
 
     <!-- Tailwind -->
-    <link href="/css/app.css" rel="stylesheet">
+    <link href="{{ mix('css/app.css') }}" rel="stylesheet">
 </head>
 <body class="font-sans bg-white leading-tight antialiased">
     <div id="app" class="mt-12 px-6 constrain constrain-xl">
@@ -35,7 +35,5 @@
         @yield('content')
 
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
 </body>
 </html>
