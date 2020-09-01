@@ -24,7 +24,7 @@ Before going into the details, here are some of the abbreviations:
 
 **Total net-worth** = (Equity Assets + Debt Funds + Cash + Other Assets) - Liabilities
 
-![](https://res.cloudinary.com/doohrbhlh/image/upload/v1598964180/virajkhatavkar.com/10-september-2020-personal-net-worth-update-2.png)
+![](https://res.cloudinary.com/doohrbhlh/image/upload/v1598964822/virajkhatavkar.com/10-september-2020-personal-net-worth-update-2.png)
 
 ## House / Car
 
